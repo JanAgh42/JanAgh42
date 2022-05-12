@@ -18,7 +18,9 @@
 
 
 ### Ways how to get in touch with me:
-[![](images/linkedin.png)][1]&nbsp;&nbsp;&nbsp;[![](images/instagram-color.png)][2]
+[![](images/linkedin.png)][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](images/instagram-color.png)][2]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanAgh42&layout=compact)]()
 
 [1]: https://www.linkedin.com/in/j%C3%A1n-%C3%A1gh-8073b623a/
 [2]: https://www.instagram.com/jani.agh42/
