@@ -16,13 +16,21 @@
 - I absolutely LOVE nature 🌲🌳
 - Sometimes I go on long bike trips - there are many beautiful places near my area 💫
 
+### Programming languages I use:
+![](images/rsz_html.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_css.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_c.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_c%23.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_java.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_javascript.png)
+
+### Frameworks & other technology:
+![](images/rsz_git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_react.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_net.png)
 
 ### Ways how to get in touch with me:
 [![](images/linkedin.png)][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](images/instagram-color.png)][2]
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanAgh42&layout=compact&langs_count=6&theme=merko)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanAgh42&layout=compact&langs_count=6&theme=merko)](https://github.com/JanAgh42)
 
 [1]: https://www.linkedin.com/in/j%C3%A1n-%C3%A1gh-8073b623a/
 [2]: https://www.instagram.com/jani.agh42/
