@@ -5,11 +5,11 @@
 
 ### Some personal information:
 - I live in the vicinity of Bratislava, Slovakia 🌍
-- I'm 21 years old 👷 
+- I'm 22 years old 👷 
 - I'm fluent in English, Slovak, Czech and Hungarian 🌐
 - I'm interested in everything tech-related 👌🏻
-- At-present I'm refreshing my JS knowledge and at the same time learning some ReactJS 🧠
-- My future plans: become proficient in C#, .NET and Vue.js ⏱️
+- At-present I'm focusing UX/UI design and expanding my Vue.js and C# knowledge 🧠
+- My future plans: become proficient in ASP.NET, Vue.js and continue my React.js studies⏱️
 
 ### Some fun facts:
 - My favourite hobbies are spending time with friends, hiking ⛰ and travelling 🚀
