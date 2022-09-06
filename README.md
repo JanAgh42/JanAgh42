@@ -24,14 +24,13 @@
 
 ### Frameworks & other technology:
 ![](images/rsz_git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_react.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_net.png)
+![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_net.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_ph.png)
 
 ### Ways how to get in touch with me:
 [![](images/linkedin.png)][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](images/instagram-color.png)][2]
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanAgh42&layout=compact&langs_count=6&theme=merko)](https://github.com/JanAgh42)
 
 [1]: https://www.linkedin.com/in/j%C3%A1n-%C3%A1gh-8073b623a/
 [2]: https://www.instagram.com/jani.agh42/
