@@ -32,7 +32,7 @@
 
 <br/>
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanAgh42&layout=compact&langs_count=6&theme=merko)](https://github.com/JanAgh42)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanAgh42&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/JanAgh42)
 
 [1]: https://www.linkedin.com/in/j%C3%A1n-%C3%A1gh-8073b623a/
 [2]: https://www.instagram.com/jani.agh42/
