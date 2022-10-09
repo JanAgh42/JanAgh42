@@ -1,6 +1,6 @@
 # Hello everyone, my name is Ján Ágh 🤙
 
-## I'm currently a second-year bachelor's student @ FIIT STU 👨‍💻
+## I'm currently a third-year bachelor's student @ FIIT STU 👨‍💻
 
 
 ### Some personal information:
@@ -12,7 +12,7 @@
 - My future plans: become proficient in ASP.NET, Vue.js and continue my React.js studies⏱️
 
 ### Some fun facts:
-- My favourite hobbies are spending time with friends, hiking ⛰ and travelling 🚀
+- My favourite hobbies are spending time with my cute, adorable, gorgeous, funny and incredibly intelligent girlfriend ❤️, hiking ⛰ and travelling 🚀
 - I absolutely LOVE nature 🌲🌳
 - Sometimes I go on long bike trips - there are many beautiful places near my area 💫
 
