@@ -23,6 +23,7 @@
 ![](images/rsz_typescript.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_python.png)
 
 ### Frameworks & other technology:
+![](images/rsz_vscode.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_react.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_net.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_ph.png)
