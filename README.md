@@ -8,7 +8,7 @@
 - I'm 22 years old 👷 
 - I'm fluent in English, Slovak, Czech and Hungarian 🌐
 - I'm interested in everything tech-related 👌🏻
-- At-present I'm focusing UX/UI design and expanding my Vue.js and C# knowledge 🧠
+- At-present I'm focusing UI/UX design and expanding my Vue.js and C# knowledge 🧠
 - My future plans: become proficient in ASP.NET, Vue.js and continue my React.js studies⏱️
 
 ### Some fun facts:
