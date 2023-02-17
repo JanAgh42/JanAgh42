@@ -21,7 +21,8 @@
 ![](images/rsz_html.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_css.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_c.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_c%23.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_java.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_javascript.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](images/rsz_typescript.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_python.png)
+![](images/rsz_typescript.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_python.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_sql.png)
 
 ### Frameworks & other technology:
 ![](images/rsz_vscode.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
