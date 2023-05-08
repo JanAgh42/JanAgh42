@@ -2,14 +2,13 @@
 
 ## I'm currently a third-year bachelor's student @ FIIT STU 👨‍💻
 
-
 ### Some personal information:
 - I live in the vicinity of Bratislava, Slovakia 🌍
 - I'm 22 years old 👷 
 - I'm fluent in English, Slovak, Czech and Hungarian 🚩
 - I'm interested in everything tech-related 👌🏻
 - I work part-time as a junior full-stack developer 🌐
-- At-present I'm focusing UI/UX design and expanding my Vue.js and C# knowledge 🧠
+- At-present I'm focusing UI/UX design and expanding my knowledge in various areas 🧠
 - My future plans: become proficient in ASP.NET, Vue.js and continue my React.js studies⏱️
 
 ### Some fun facts:
@@ -25,9 +24,9 @@
 ![](images/rsz_sql.png)
 
 ### Frameworks & other technology:
-![](images/rsz_vscode.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_linux.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](images/rsz_git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_react.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_net.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_linux.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_react.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](images/rsz_net.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_laravel.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_ph.png)
 
 ### Ways how to get in touch with me:
