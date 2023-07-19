@@ -9,7 +9,7 @@
 - I'm interested in everything tech-related 👌🏻
 - I work part-time as a junior full-stack developer 🌐
 - At-present I'm focusing UI/UX design and expanding my knowledge in various areas 🧠
-- My future plans: become proficient in ASP.NET, Vue.js and continue my React.js studies⏱️
+- My future plans: become highly skilled in the full-stack development process and also software testing & deployment pipelines ⏱️
 
 ### Some fun facts:
 - My favourite hobbies are spending time with my cute, adorable, gorgeous, funny and incredibly intelligent girlfriend ❤️, hiking ⛰ and travelling 🚀
