@@ -4,7 +4,7 @@
 
 ### Some personal information:
 - I live in the vicinity of Bratislava, Slovakia 🌍
-- I'm 22 years old 👷 
+- I'm 23 years old 👷 
 - I'm fluent in English, Slovak, Czech and Hungarian 🚩
 - I'm interested in everything tech-related 👌🏻
 - I work part-time as a junior full-stack developer 🌐
