@@ -1,6 +1,6 @@
 # Hello everyone, my name is Ján Ágh 🤙
 
-## I'm currently a third-year bachelor's student @ FIIT STU 👨‍💻
+## I'm currently a fourth-year bachelor's student @ FIIT STU 👨‍💻
 
 ### Some personal information:
 - I live in the vicinity of Bratislava, Slovakia 🌍
@@ -27,7 +27,7 @@
 ![](images/rsz_linux.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_git.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_react.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_vue.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](images/rsz_net.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_laravel.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](images/rsz_ph.png)
+![](images/rsz_adonis.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](images/rsz_ph.png)
 
 ### Ways how to get in touch with me:
 [![](images/linkedin.png)][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](images/instagram-color.png)][2]
